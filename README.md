@@ -1,1 +1,1 @@
-# alpha-xtra-boost.github.io
+# https://alpha-xtra-boost.vercel.app
