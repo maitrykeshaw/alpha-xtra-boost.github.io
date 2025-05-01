@@ -1,1 +1,1 @@
-# https://alpha-xtra-boost.vercel.app
+# https://alpha-xtra-boost.vercel.app/
