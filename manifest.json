@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Alpha Xtra Boost™ (Official) Get 50% Off + Free Shipping",
+  "short_name":"Alpha Xtra Boost™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Alpha Xtra Boost is a dietary formula that is created with unique all-natural ingredients like herbs and organic compounds.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
